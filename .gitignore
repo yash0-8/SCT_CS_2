@@ -1,0 +1,3 @@
+# Ignore generated images
+encrypted_*.jpg
+decrypted_*.jpg
