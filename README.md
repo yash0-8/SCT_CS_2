@@ -5,6 +5,7 @@ This repository includes a straightforward Python script for encrypting and decr
 ## Features
 
 **Channel Swapping:** Encrypts the image by swapping the Red and Blue color channels. This is its own inverse, so executing it again decrypts the image.
+
 **XOR Operation:** Encrypts an image by applying a bitwise XOR operation on each pixel's color values with a secret key. running the process with the same key decrypts the image.
 
 ## How to Use
